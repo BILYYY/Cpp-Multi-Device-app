@@ -11,7 +11,6 @@ This is a quick and straightforward task manager application that I created to g
 
 ## Screenshots
 
-Here you can describe what each screenshot represents or just list them.
 
 ![image](https://github.com/BILYYY/Task-Manager-C-Multi-Device-app/assets/63551022/97910bde-ab6e-4eeb-b5bb-25ef22aa1bc3)
 
