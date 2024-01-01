@@ -20,7 +20,7 @@ This is a quick and straightforward task manager application that I created to g
 To run this project, clone the repo, open it in Embarcadero C++ Builder, and hit 'Run'.
 
 ```sh
-git clone git@github.com:BILYYY/Task-Manager-C-Multi-Device-app.git
+git clone git@github.com/BILYYY/Cpp-Multi-Device-app/tree/4f19d631f783d7deb032bc3b716b6d72cd022d65/TaskManager
 ```
 That's all there is to it!
 
